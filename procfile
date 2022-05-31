@@ -1,0 +1,1 @@
+web gunicorn footbuddy.wsgi:application --log-file -
